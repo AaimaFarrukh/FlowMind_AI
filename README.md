@@ -62,7 +62,7 @@ FlowMind-extension/
 #### 1. Clone / Download the Repository
 
 ```bash
-git clone https://github.com/yourusername/FlowMind-extension.git
+git clone https://github.com/AaimaFarrukh/FlowMind-extension.git
 cd FlowMind-extension
 ```
 
@@ -266,9 +266,9 @@ Built with ❤️ because tab-switching is annoying.
 
 ## 💬 Support & Feedback
 
-- Found a bug? Open an [Issue](https://github.com/yourusername/FlowMind-extension/issues)
-- Have an idea? Create a [Discussion](https://github.com/yourusername/FlowMind-extension/discussions)
-- Want to chat? Reach out on [LinkedIn](https://linkedin.com/in/yourprofile)
+- Found a bug? Open an [Issue](https://github.com/AaimaFarrukh/FlowMind-extension/issues)
+- Have an idea? Create a [Discussion](https://github.com/AaimaFarrukh/FlowMind-extension/discussions)
+- Want to chat? Reach out on [LinkedIn](https://linkedin.com/in/aaimafarrukh)
 
 ---
 
@@ -282,3 +282,6 @@ Built with ❤️ because tab-switching is annoying.
 ---
 
 **Happy coding! 🚀**
+**Aaima Farrukh**
+***AI Engineer | ML | Data Science***
+
